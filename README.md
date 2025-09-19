@@ -59,10 +59,3 @@ The dataset includes property and neighborhood details such as:
 - Added **visualizations** to show correlations and feature distributions.  
 
 ---
-
-## 📂 Project Structure  
-├── AIML Project.ipynb # Jupyter notebook with full code
-├── Case Study.docx # Detailed documentation
-├── Case Study.pdf # PDF version of the report
-├── housing_price_model_strong_predictors.joblib # Saved ML model
-├── README.md # Project overview (this file)
